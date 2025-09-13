@@ -1,4 +1,4 @@
-# PEIRS-IDEAS — Patients Engaged in Research Survey Enhanced by Inclusion, Diversity, Equity, Acceptance, and Safety (PEIR-IDEAS) Scoring (Standalone Function)
+# PEIR-IDEAS — Patients Engaged in Research Survey Enhanced by Inclusion, Diversity, Equity, Acceptance, and Safety (PEIR-IDEAS) Scoring (Standalone Function)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
 **Status:** pre-CRAN • simple R script for scoring PEIRS
