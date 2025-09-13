@@ -1,4 +1,4 @@
-# PIERS — Patients Engaged in Research Scale (PEIRS) Scoring (Standalone Function)
+# PEIRS — Patients Engaged in Research Scale (PEIR-IDEAS) Scoring (Standalone Function)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
 **Status:** pre-CRAN • simple R script for scoring PEIRS
